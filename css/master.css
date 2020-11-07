@@ -47,6 +47,10 @@ li{
   width: 100% ;
 }
 
+.anatomie{
+  margin-left: 400px;
+}
+
 section {
   min-height: 100vh;
   box-shadow: 6px 10px 29px -10px
@@ -181,3 +185,15 @@ h2 {
     top: 32px;
     left: 32px;
   }
+
+body {
+  cursor: crosshair;
+}
+
+img {
+  cursor: wait;
+}
+
+a:link{
+  cursor: pointer;
+}
